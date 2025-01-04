@@ -332,7 +332,7 @@
 
   <div id="openCardButton">
     <div id="bq" style="display:block;">JIEGE @2024-<?php echo date("Y"); ?> 
-      <a href="https://github.com/xiaomingtate/html">JIEGE</a>用爱制作</div>
+      <a href="https://github.com/xiaomingtate/WelcomePage">JIEGE</a>用爱制作</div>
     <div id="LrcTxt" style="display: block;"></div>
   </div>
 
